@@ -1,4 +1,4 @@
-# Casa Automática
+# Automated House
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/juliosn/automatedHouse?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/juliosn/automatedHouse?style=for-the-badge)
@@ -8,4 +8,4 @@
 
 ![Maquete](https://github.com/juliosn/automatedHouse/assets/99426563/85082a29-48c3-4fdf-9bdc-f3b8d01c2827)
 
-> (Representação) Projeto acadêmico realizdo em 2022 que consiste em utilizar conceitos IoT (Internet of Things) para a simular uma automação residencial.
+> (Representation) Academic project carried out in 2022 that consists of using IoT (Internet of Things) concepts to simulate a house automation.
